@@ -60,19 +60,24 @@ footer {
 
 @media (min-width: 768px) {
   header {
-    background-color: slateblue;
-  }
+    background-color: slateblue;  }
+ 
+ 
+  
 
   #color-1 {
     background-color: green;
+    width: 50%;
   }
 
   #color-2 {
     background-color: brown;
+    width: 50%;
   }
 
   #color-3 {
     background-color: lawngreen;
+    width: 100%;
   }
 
   footer {
@@ -88,16 +93,21 @@ footer {
     background-color: skyblue;
   }
 
+  
+
   #color-1 {
     background-color: blueviolet;
+    width: 33.3%;
   }
 
   #color-2 {
     background-color: teal;
+    width: 33.3%;
   }
 
   #color-3 {
     background-color: salmon;
+    width: 33.3%;
   }
 
   footer {
